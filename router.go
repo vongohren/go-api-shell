@@ -2,9 +2,9 @@ package main
 
 import (
   "net/http"
-  "github.com/Snorlock/shoppingApi/handlers"
-  "github.com/Snorlock/shoppingApi/middleware"
-  "github.com/Snorlock/shoppingApi/db"
+  "github.com/Snorlock/go-api-shell/handlers"
+  "github.com/Snorlock/go-api-shell/middleware"
+  "github.com/Snorlock/go-api-shell/db"
   "github.com/Snorlock/mux"
 )
 

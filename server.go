@@ -2,7 +2,7 @@ package main
 
 import(
   "net/http"
-  "github.com/Snorlock/shoppingApi/db"
+  "github.com/Snorlock/go-api-shell/db"
 )
 
 func NewServer(addr string) *http.Server {

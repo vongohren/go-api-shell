@@ -2,7 +2,7 @@ package middleware
 
 import (
     "net/http"
-    "github.com/Snorlock/shoppingApi/db"
+    "github.com/Snorlock/go-api-shell/db"
     "github.com/Snorlock/mux"
 )
 

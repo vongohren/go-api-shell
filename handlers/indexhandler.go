@@ -2,8 +2,8 @@ package handlers
 
 import(
   "net/http"
-  "encoding/json"
-  "github.com/Snorlock/shoppingApi/db"
+  "fmt"
+  "github.com/Snorlock/go-api-shell/db"
   "github.com/Snorlock/mux"
 )
 

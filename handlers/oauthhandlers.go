@@ -11,7 +11,7 @@ import (
 	"github.com/markbates/goth"
 	"github.com/markbates/goth/gothic"
 	"github.com/markbates/goth/providers/facebook"
-  "github.com/Snorlock/shoppingApi/db"
+  "github.com/Snorlock/go-api-shell/db"
   "github.com/Snorlock/mux"
   re "github.com/dancannon/gorethink"
   jwt "github.com/dgrijalva/jwt-go"

@@ -5,8 +5,8 @@ import(
   "time"
   "net/http"
   "encoding/json"
-  "github.com/Snorlock/shoppingApi/models"
-  "github.com/Snorlock/shoppingApi/db"
+  "github.com/Snorlock/go-api-shell/models"
+  "github.com/Snorlock/go-api-shell/db"
   re "github.com/dancannon/gorethink"
 )
 
